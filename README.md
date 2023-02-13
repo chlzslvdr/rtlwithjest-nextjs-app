@@ -36,4 +36,10 @@ $ npm test
 
 [Testing Next.js apps with Jest](https://blog.logrocket.com/testing-next-js-apps-jest)
 
+[Jest Docs](https://jestjs.io/docs/getting-started)
+
+[React Testing Library Docs](https://testing-library.com/docs/react-testing-library/intro/)
+
+[Testing Playground](https://testing-playground.com/) - use good testing practices to match elements.
+
 [React Testing Library Tutorial](https://www.robinwieruch.de/react-testing-library/)
